@@ -1,0 +1,9 @@
+{
+    "first_name": "Ygor",
+    "last_name": "Rocha",
+    "email": "ygor.rocha@email.com",
+    "gender": "Male",
+    "phone": "3199999999",
+    "date": "01 Jan 2026",
+    "hobbies": ["Sports", "Reading"]
+}
