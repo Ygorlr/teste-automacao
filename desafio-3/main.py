@@ -5,7 +5,7 @@ from playwright.sync_api import sync_playwright
 URL = "https://demoqa.com/automation-practice-form"
 FILE_IMAGE = "image.png"
 FILE_JSON = "data.json"
-SAVE_SCREENSHOT = "saida/confirmation.png"
+SAVE_SCREENSHOT = "confirmation.png"
 CALENDAR = {
     "Jan": "January", "Feb": "February", "Mar": "March", "Apr": "April",
     "May": "May", "Jun": "June", "Jul": "July", "Aug": "August", 

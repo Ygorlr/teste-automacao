@@ -19,4 +19,4 @@ COPY image.png .
 
 VOLUME ["/saida"]
 
-CMD ["python", "main.py"]
+CMD ["sh", "-c", "python main.py && mv confirmation.png /saida/confirmation.png"]
